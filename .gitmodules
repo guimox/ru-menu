@@ -4,3 +4,6 @@
 [submodule "https:/github.com/gxlpes/ru-menu"]
 	path = https:/github.com/gxlpes/ru-menu
 	url = https://github.com/gxlpes/ru-menu-scraper
+[submodule "ru-menu"]
+	path = ru-menu
+	url = https://github.com/gxlpes/ru-menu
