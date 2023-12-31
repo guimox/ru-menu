@@ -1,0 +1,3 @@
+[submodule "git@github.com:gxlpes/ru-menu-scraper.git"]
+	path = git@github.com:gxlpes/ru-menu-scraper.git
+	url = git@github.com:gxlpes/ru-menu.git
