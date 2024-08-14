@@ -16,3 +16,9 @@
 [submodule "ru-menu-save"]
 	path = ru-menu-save
 	url = https://github.com/gxlpes/ru-menu-save
+[submodule "ru-scraper"]
+	path = ru-scraper
+	url = https://github.com/gxlpes/ru-scraper
+[submodule "ru-whatsapp"]
+	path = ru-whatsapp
+	url = https://github.com/gxlpes/ru-whatsapp
