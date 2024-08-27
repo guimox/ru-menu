@@ -53,7 +53,7 @@ The happy path of the data pipeline is `website` -> `scraper` -> `sender` -> `Wh
 
 The image below is available at this [link](https://gxlpes.github.io/ru-menu/website-example/ru-website-pol-1208-0908.html), where I saved an example.
 
-![alt text](image.png)
+![Menu from Politécnico](doc/website-politecnico.png)
 
 After processing by the scraper function, this response is sent to the function responsable for sending the WhatsApp message.
 
@@ -162,7 +162,7 @@ The JSON format with its keys was thought for a more general approach. This JSON
 
 After getting this JSON formatted data, the sender function can then format in a WhatsApp message with proper formatting and emojis.
 
-![WhatsApp message example](image-2.png)
+![WhatsApp message example](doc/whatsapp-message.png)
 
 ## Future improvements
 
