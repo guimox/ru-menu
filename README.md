@@ -8,7 +8,7 @@ Every day, thousands of people visit the university's website just to check what
 
 This project was created to automate this process, sending the menu directly to WhatsApp every day at 5 AM. This simplifies the daily routine for thousands of people, giving them access to the menu as soon as they wake up and making it easy to share the menu within their conversations.
 
-## Tech Used
+## Tech used
 
 - **Java 17**: The core programming language used for the scraper.
 - **Spring** Cloud Function: A framework to create stand-alone, production-grade Spring-based applications.
@@ -16,13 +16,13 @@ This project was created to automate this process, sending the menu directly to 
 - **Node.js**: Used to send messages via WhatsApp.
 - **Baileys:** A third-party library that enables sending WhatsApp messages to channels.
 
-## Data Flow
+## Data flow
 
 Every workday at 5 AM, EventBridge triggers the ru-scraper function, which retrieves the parsed HTML menu and sends it to ru-whatsapp for formatting and delivery to a WhatsApp channel.
 
 ![diagram data-flow](doc/diagram-data-flow.png)
 
-## Flexible Code
+## Flexible code & modularization
 
 The entire project was designed to be as flexible as possible. Since the university has multiple restaurants, the code and infrastructure were made to be easily adaptable and deployable.
 
@@ -30,7 +30,7 @@ An example can be seen in the diagram, where two restaurants (Politécnico and B
 
 ![ru-menu modularization](doc/ru-menu-modularization.png)
 
-## Cloud Infrastructure
+## Cloud infrastructure
 
 The project uses AWS cloud services to provide multiple services, making it easier to maintain and develop new features.
 
@@ -164,7 +164,7 @@ After getting this JSON formatted data, the sender function can then format in a
 
 ![WhatsApp message example](doc/whatsapp-message.png)
 
-## Future improvements
+## Future improvements (TODO)
 
 - Make better testing cases
 - Improve the overall documentation
