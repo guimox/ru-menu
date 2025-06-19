@@ -1,24 +1,6 @@
-[submodule "git@github.com:gxlpes/ru-menu-scraper.git"]
-	path = git@github.com:gxlpes/ru-menu-scraper.git
-	url = git@github.com:gxlpes/ru-menu.git
-[submodule "https:/github.com/gxlpes/ru-menu"]
-	path = https:/github.com/gxlpes/ru-menu
-	url = https://github.com/gxlpes/ru-menu-scraper
-[submodule "ru-menu"]
-	path = ru-menu
-	url = https://github.com/gxlpes/ru-menu
-[submodule "ru-menu-scraper"]
-	path = ru-menu-scraper
-	url = https://github.com/gxlpes/ru-menu-scraper
-[submodule "ru-menu-whatsapp"]
-	path = ru-menu-whatsapp
-	url = https://github.com/gxlpes/ru-menu-whatsapp
-[submodule "ru-menu-save"]
-	path = ru-menu-save
-	url = https://github.com/gxlpes/ru-menu-save
 [submodule "ru-scraper"]
-	path = ru-scraper
-	url = https://github.com/gxlpes/ru-scraper
+    path = ru-scraper
+    url = https://github.com/gxlpes/ru-scraper
 [submodule "ru-whatsapp"]
-	path = ru-whatsapp
-	url = https://github.com/gxlpes/ru-whatsapp
+    path = ru-whatsapp
+    url = https://github.com/gxlpes/ru-whatsapp
