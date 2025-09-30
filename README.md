@@ -8,10 +8,19 @@ Every day, thousands of people visit the university's website just to check what
 
 This project was created to automate this process, sending the menu directly to WhatsApp every day at 5 AM. This simplifies the daily routine for thousands of people, giving them access to the menu as soon as they wake up and making it easy to share the menu within their conversations.
 
+## DAU
+
+Right now, the system has **5.000 daily active users** who receive the menu every day. Below, you can access each channel to see how everything works from the user's perspective.
+
+- RU [Agrárias](https://whatsapp.com/channel/0029Vb3bhFf9sBI5Z3SY9D1F) = 225 users
+- RU [Central](https://whatsapp.com/channel/0029VazQCEaEQIarkT6jii2o) = 1243 users
+- RU [Botânico](https://whatsapp.com/channel/0029VaoDsH20QeaeWkvBcP0Z) = 1334 users
+- RU [Politécnico](https://whatsapp.com/channel/0029VajNanJEAKWIRxfDnl3I) = 2121 users
+
 ## Tech used
 
 - **Java 17**: The core programming language used for the scraper.
-- **Spring** Cloud Function: A framework to create stand-alone, production-grade Spring-based applications.
+- **Spring Cloud Function**: A framework to create stand-alone, production-grade Spring-based applications.
 - **JSoup:** A Java library for parsing HTML, used here for web scraping.
 - **Node.js**: Used to send messages via WhatsApp.
 - **Baileys:** A third-party library that enables sending WhatsApp messages to channels.
@@ -20,7 +29,7 @@ This project was created to automate this process, sending the menu directly to 
 
 Every workday at 5 AM, EventBridge triggers the ru-scraper function, which retrieves the parsed HTML menu and sends it to ru-whatsapp for formatting and delivery to a WhatsApp channel.
 
-![diagram data-flow](doc/diagram-data-flow.png)
+<img width="2352" height="1417" alt="ru-menu" src="https://github.com/user-attachments/assets/f5166653-e97c-426d-8fe9-ada4cc6fb2ea" />
 
 ## Flexible code & modularization
 
@@ -28,7 +37,9 @@ The entire project was designed to be as flexible as possible. Since the univers
 
 An example can be seen in the diagram, where two restaurants (Politécnico and Botânico) have their own data pipelines.
 
-![ru-menu modularization](doc/ru-menu-modularization.png)
+The database for the WhatsApp profile data and the database used for the scraper status are shared between different restaurant services.
+
+<img width="2983" height="1791" alt="image" src="https://github.com/user-attachments/assets/89ca9e26-e489-4b6d-bc54-55ca80e4c89e" />
 
 ## Cloud infrastructure
 
@@ -45,7 +56,7 @@ Each function has a buildspec file that provides CodeBuild commands for the corr
 
 Node.js 17 and Java 17 are used.
 
-![CI/CD diagram of RU Menu Project](doc/diagram-aws.png)
+<img src="https://github.com/user-attachments/assets/2d1822c6-6fd5-4585-92f8-65928caeb56e" width="300" />
 
 ## Example of a scenario
 
