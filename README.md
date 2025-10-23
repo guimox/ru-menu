@@ -10,12 +10,12 @@ This project was created to automate this process, sending the menu directly to 
 
 ## DAU
 
-Right now, the system has **5.5,308 daily active users** who receive the menu every day. Below, you can access each channel to see how everything works from the user's perspective.
+Right now, the system has **5,308 daily active users** who receive the menu every day. Below, you can access each channel to see how everything works from the user's perspective.
 
-- RU [Agrárias](https://whatsapp.com/channel/0029Vb3bhFf9sBI5Z3SY9D1F) = 225 users
-- RU [Central](https://whatsapp.com/channel/0029VazQCEaEQIarkT6jii2o) = 1243 users
-- RU [Botânico](https://whatsapp.com/channel/0029VaoDsH20QeaeWkvBcP0Z) = 1334 users
-- RU [Politécnico](https://whatsapp.com/channel/0029VajNanJEAKWIRxfDnl3I) = 2121 users
+- RU [Agrárias](https://whatsapp.com/channel/0029Vb3bhFf9sBI5Z3SY9D1F) = 254 users
+- RU [Central](https://whatsapp.com/channel/0029VazQCEaEQIarkT6jii2o) = 1439 users
+- RU [Botânico](https://whatsapp.com/channel/0029VaoDsH20QeaeWkvBcP0Z) = 1349 users
+- RU [Politécnico](https://whatsapp.com/channel/0029VajNanJEAKWIRxfDnl3I) = 2266 users
 
 ## Tech used
 
