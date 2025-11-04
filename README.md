@@ -17,7 +17,7 @@ Botânico = 1465 users
 Central = 1382 users
 Politécnico = 2311 users
 
-Last updated at: 04/11/2025 08:30:48
+Last updated at: 04/11/2025 08:35:19
 
 - RU [Agrárias](https://whatsapp.com/channel/0029Vb3bhFf9sBI5Z3SY9D1F) = 269 users
 - RU [Central](https://whatsapp.com/channel/0029VazQCEaEQIarkT6jii2o) = 1382 users
