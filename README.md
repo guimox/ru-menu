@@ -10,7 +10,9 @@ This project was created to automate this process, sending the menu directly to 
 
 ## DAU
 
-Right now, the system has **5427 daily active users** who receive the menu every day. Below, you can access each channel to see how everything works from the user's perspective.
+Right now, the system has **5427 daily active users**
+
+*Last updated at: 04/11/2025 08:26:53* who receive the menu every day. Below, you can access each channel to see how everything works from the user's perspective.
 
 - RU [Agrárias](https://whatsapp.com/channel/0029Vb3bhFf9sBI5Z3SY9D1F) = 269 users
 - RU [Central](https://whatsapp.com/channel/0029VazQCEaEQIarkT6jii2o) = 1382 users
