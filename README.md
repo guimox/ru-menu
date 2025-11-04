@@ -4,13 +4,17 @@ A Java-based web scraper designed to retrieve and send the daily menu from the R
 
 ## Why?
 
-Every day, thousands of people visit the university's website just to check what's being served at the RU (Restaurante Universitário) from Monday to Friday. Many even take screenshots to share the menu via WhatsApp.
+Every day, thousands of people visit the university’s website just to check what’s being served at the RU (Restaurante Universitário) from Monday to Friday. Many even take screenshots to share the menu on WhatsApp.
 
-This project was created to automate this process, sending the menu directly to WhatsApp every day at 5 AM. This simplifies the daily routine for thousands of people, giving them access to the menu as soon as they wake up and making it easy to share the menu within their conversations.
+This project was created to automate that process by sending the menu directly via WhatsApp every evening after the closing hour of the restaurant. It simplifies the daily routine for thousands of people, giving them access to the menu the night before, making it easier to plan and share it in their WhatsApp conversations.
+
+Currently, the project supports **4 different university restaurants**, each with its own menu. Below, you can access each WhatsApp channel to see how everything works from the user perspective. All content is in Portuguese.
+
+RU [Agrárias](https://whatsapp.com/channel/0029Vb3bhFf9sBI5Z3SY9D1F) | RU [Central](https://whatsapp.com/channel/0029VazQCEaEQIarkT6jii2o) | RU [Botânico](https://whatsapp.com/channel/0029VaoDsH20QeaeWkvBcP0Z) | RU [Politécnico](https://whatsapp.com/channel/0029VajNanJEAKWIRxfDnl3I)
 
 ## DAU
 
-Right now, the system has 5427 daily active users who receive the menu every day. Below, you can access each WhatsApp channel to see how everything works from the user's perspective. Everything is in Portuguese.
+Right now, the system has **5427 daily active users** who receive the menu every day.
 
 - Agrárias = 269 users
 - Botânico = 1465 users
@@ -18,11 +22,6 @@ Right now, the system has 5427 daily active users who receive the menu every day
 - Politécnico = 2311 users
 
 Last updated at: 04/11/2025 07:39:44 UTC
-
-- RU [Agrárias](https://whatsapp.com/channel/0029Vb3bhFf9sBI5Z3SY9D1F) = 269 users
-- RU [Central](https://whatsapp.com/channel/0029VazQCEaEQIarkT6jii2o) = 1382 users
-- RU [Botânico](https://whatsapp.com/channel/0029VaoDsH20QeaeWkvBcP0Z) = 1465 users
-- RU [Politécnico](https://whatsapp.com/channel/0029VajNanJEAKWIRxfDnl3I) = 2311 users
 
 ## Tech used
 
