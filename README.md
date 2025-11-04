@@ -21,7 +21,7 @@ Right now, the system has **5427 daily active users** who receive the menu every
 - Central = 1382 users
 - Politécnico = 2311 users
 
-Last updated at: 04/11/2025 07:39:44 UTC
+Last updated at: 04/11/2025 07:48:51 UTC
 
 ## Tech used
 
