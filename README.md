@@ -12,12 +12,12 @@ This project was created to automate this process, sending the menu directly to 
 
 Right now, the system has 5427 daily active users who receive the menu every day. Below, you can access each WhatsApp channel to see how everything works from the user's perspective. Everything is in Portuguese.
 
-Agrárias = 269 users
-Botânico = 1465 users
-Central = 1382 users
-Politécnico = 2311 users
+- Agrárias = 269 users
+- Botânico = 1465 users
+- Central = 1382 users
+- Politécnico = 2311 users
 
-Last updated at: 04/11/2025 08:35:19
+Last updated at: 04/11/2025 07:39:44 UTC
 
 - RU [Agrárias](https://whatsapp.com/channel/0029Vb3bhFf9sBI5Z3SY9D1F) = 269 users
 - RU [Central](https://whatsapp.com/channel/0029VazQCEaEQIarkT6jii2o) = 1382 users
