@@ -186,3 +186,13 @@ After getting this JSON formatted data, the sender function can then format in a
 - Make better testing cases
 - Improve the overall documentation
 - Create other services (saver, collector)
+
+
+Right now, the system has **5622 daily active users** who receive the menu every day.
+
+- Agrárias = 331 users
+- Botânico = 1514 users
+- Central = 1383 users
+- Politécnico = 2394 users
+
+Last updated at 14/11/2025 07:08:59 UTC
