@@ -14,14 +14,14 @@ RU [Agrárias](https://whatsapp.com/channel/0029Vb3bhFf9sBI5Z3SY9D1F) | RU [Cent
 
 ## DAU
 
-Right now, the system has **5463 daily active users** who receive the menu every day.
+Right now, the system has **5638 daily active users** who receive the menu every day.
 
-- Agrárias = 270 users
-- Botânico = 1477 users
-- Central = 1385 users
-- Politécnico = 2331 users
+- Agrárias = 340 users
+- Botânico = 1522 users
+- Central = 1381 users
+- Politécnico = 2395 users
 
-Last updated at 06/11/2025 18:47:53 UTC
+Last updated at 15/11/2025 12:26:26 UTC
 
 ## Tech used
 
@@ -188,23 +188,14 @@ After getting this JSON formatted data, the sender function can then format in a
 - Create other services (saver, collector)
 
 
-Right now, the system has **5622 daily active users** who receive the menu every day.
+Right now, the system has **5638 daily active users** who receive the menu every day.
 
-- Agrárias = 331 users
-- Botânico = 1514 users
-- Central = 1383 users
-- Politécnico = 2394 users
-
-Last updated at 14/11/2025 07:08:59 UTC
-
-Right now, the system has **5635 daily active users** who receive the menu every day.
-
-- Agrárias = 337 users
+- Agrárias = 340 users
 - Botânico = 1522 users
 - Central = 1381 users
 - Politécnico = 2395 users
 
-Last updated at 15/11/2025 11:34:39 UTC
+Last updated at 15/11/2025 12:26:26 UTC
 
 Right now, the system has **5638 daily active users** who receive the menu every day.
 
@@ -213,4 +204,13 @@ Right now, the system has **5638 daily active users** who receive the menu every
 - Central = 1381 users
 - Politécnico = 2395 users
 
-Last updated at 15/11/2025 12:19:31 UTC
+Last updated at 15/11/2025 12:26:26 UTC
+
+Right now, the system has **5638 daily active users** who receive the menu every day.
+
+- Agrárias = 340 users
+- Botânico = 1522 users
+- Central = 1381 users
+- Politécnico = 2395 users
+
+Last updated at 15/11/2025 12:26:26 UTC
