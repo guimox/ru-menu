@@ -196,3 +196,12 @@ Right now, the system has **5622 daily active users** who receive the menu every
 - Politécnico = 2394 users
 
 Last updated at 14/11/2025 07:08:59 UTC
+
+Right now, the system has **5635 daily active users** who receive the menu every day.
+
+- Agrárias = 337 users
+- Botânico = 1522 users
+- Central = 1381 users
+- Politécnico = 2395 users
+
+Last updated at 15/11/2025 11:34:39 UTC
