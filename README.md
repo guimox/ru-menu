@@ -21,7 +21,7 @@ Right now, the system has **5702 daily active users** who receive the menu every
 - Central = 1377 users
 - Politécnico = 2398 users
 
-Last updated at 17/11/2025 11:13:27 UTC
+Last updated at 17/11/2025 12:02:56 UTC
 
 ## Tech used
 
@@ -195,7 +195,7 @@ Right now, the system has **5702 daily active users** who receive the menu every
 - Central = 1377 users
 - Politécnico = 2398 users
 
-Last updated at 17/11/2025 11:13:27 UTC
+Last updated at 17/11/2025 12:02:56 UTC
 
 Right now, the system has **5702 daily active users** who receive the menu every day.
 
@@ -204,4 +204,4 @@ Right now, the system has **5702 daily active users** who receive the menu every
 - Central = 1377 users
 - Politécnico = 2398 users
 
-Last updated at 17/11/2025 11:13:27 UTC
+Last updated at 17/11/2025 12:02:56 UTC
