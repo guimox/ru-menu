@@ -14,14 +14,14 @@ RU [Agrárias](https://whatsapp.com/channel/0029Vb3bhFf9sBI5Z3SY9D1F) | RU [Cent
 
 ## DAU
 
-Right now, the system has **6617 daily active users** who receive the menu every day.
+Right now, the system has **6688 daily active users** who receive the menu every day.
 
-- Agrárias = 759 users
-- Botânico = 1573 users
-- Central = 1292 users
-- Politécnico = 2993 users
+- Agrárias = 751 users
+- Botânico = 1590 users
+- Central = 1305 users
+- Politécnico = 3042 users
 
-Last updated at 16/01/2026 12:00:01 UTC
+Last updated at 23/01/2026 12:00:01 UTC
 
 ## Tech used
 
